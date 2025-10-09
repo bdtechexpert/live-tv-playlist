@@ -1,12 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://reelcreativevideos.com/wp-content/uploads/2015/10/discovery-channel-logo.png" group-title="", Discovery Bangla
-https://live.dinesh29.com.np/stream/jiotv/discoverybengali/master.m3u8
-
+#EXTINF:-1 tvg-id="discovery_sd" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" tvg-chno="discovery_sd" group-title="", Discovery
+https://allottplay.com/tv/toffee/live.php?id=discovery_sd&e=.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png" tvg-chno="cnn" group-title="", CNN
-https://live.dinesh29.com.np/stream/jiotvplus/cnn/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=cnn&e=.m3u8
 #EXTINF:-1 tvg-id="euro_sports_hd" tvg-name="Euro Sport HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" tvg-chno="euro_sports_hd" group-title="", Euro Sport HD
-https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-name="SONY SPORTS TEN 1 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" tvg-chno="sony_sports_1_hd" group-title="", SONY SPORTS TEN 1 HD
 https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-name="SONY SPORTS TEN 2 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" tvg-chno="sony_sports_2_hd" group-title="", SONY SPORTS TEN 2 HD
@@ -16,13 +15,13 @@ https://allottplay.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
 #EXTINF:-1 tvg-id="ten_cricket" tvg-name="SONY TEN Cricket" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" tvg-chno="ten_cricket" group-title="", SONY TEN Cricket
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 #EXTINF:-1 tvg-id="cartoon_network_hd" tvg-name="Cartoon Network HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" tvg-chno="cartoon_network_hd" group-title="", Cartoon Network HD
-https://live.dinesh29.com.np/stream/jiotvplus/cnhdenglish/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=cartoon_network_hd&e=.m3u8
 #EXTINF:-1 tvg-id="cartoon_network_sd" tvg-name="Cartoon Network" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" tvg-chno="cartoon_network_sd" group-title="", Cartoon Network
-https://live.dinesh29.com.np/stream/jiotvplus/cartoonnetworkhindi/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=cartoon_network_sd&e=.m3u8
 #EXTINF:-1 tvg-id="pogo_sd" tvg-name="Pogo" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" tvg-chno="pogo_sd" group-title="", Pogo
-https://live.dinesh29.com.np/stream/jiotvplus/pogohindi/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=pogo_sd&e=.m3u8
 #EXTINF:-1 tvg-id="discovery_kids" tvg-name="Discovery Kids" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" tvg-chno="discovery_kids" group-title="", Discovery Kids
-https://live.dinesh29.com.np/stream/jiotvplus/discoverykids2/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=discovery_kids&e=.m3u8
 #EXTINF:-1 tvg-id="sonyyay" tvg-name="SONY YAY VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" tvg-chno="sonyyay" group-title="", SONY YAY
 https://allottplay.com/tv/toffee/live.php?id=sonyyay&e=.m3u8
 #EXTINF:-1 tvg-id="hum_tv" tvg-name="Hum TV" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" tvg-chno="hum_tv" group-title="", Hum TV
@@ -48,9 +47,9 @@ https://allottplay.com/tv/toffee/live.php?id=sonypix_hd&e=.m3u8
 #EXTINF:-1 tvg-id="sonymax_2" tvg-name="SONY MAX 2 VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" tvg-chno="sonymax_2" group-title="", SONY MAX 2
 https://allottplay.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
 #EXTINF:-1 tvg-id="b4u_movies" tvg-name="B4U Movies" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" tvg-chno="b4u_movies" group-title="", B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
+https://allottplay.com/tv/toffee/live.php?id=b4u_movies&e=.m3u8
 #EXTINF:-1 tvg-id="b4u_music" tvg-name="B4U Music VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" tvg-chno="b4u_music" group-title="", B4U Music
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+https://allottplay.com/tv/toffee/live.php?id=b4u_music&e=.m3u8
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla
 https://allottplay.com/tv/toffee/live.php?id=zee_bangla&e=.m3u8
 #EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-name="Zee Bangla Cinema VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" tvg-chno="zee_bangla_cinema" group-title="", Zee Bangla Cinema
@@ -68,19 +67,17 @@ https://allottplay.com/tv/toffee/live.php?id=zee_cafe_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" tvg-chno="" group-title="", Zee Action
 https://allottplay.com/tv/toffee/live.php?id=zee_action&e=.m3u8
 #EXTINF:-1 tvg-id="tlc_sd" tvg-name="TLC" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" tvg-chno="tlc_sd" group-title="", TLC
-https://live.dinesh29.com.np/stream/jiotvplus/tlchindi/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=tlc_sd&e=.m3u8
 #EXTINF:-1 tvg-id="animal_planet_sd" tvg-name="Animal Planet" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" tvg-chno="animal_planet_sd" group-title="", Animal Planet
-https://live.dinesh29.com.np/stream/jiotvplus/animalplanethindi/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=animal_planet_sd&e=.m3u8
 #EXTINF:-1 tvg-id="animal_planet_hd" tvg-name="Animal Planet HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" tvg-chno="animal_planet_hd" group-title="", Animal Planet HD
-https://live.dinesh29.com.np/stream/jiotvplus/animalplanethdworld/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=animal_planet_hd&e=.m3u8
 #EXTINF:-1 tvg-id="sonybbc_earth_hd" tvg-name="SONY BBC EARTH HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png" tvg-chno="sonybbc_earth_hd" group-title="", SONY BBC EARTH HD
 https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8
-#EXTINF:-1 tvg-id="discovery_sd" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" tvg-chno="discovery_sd" group-title="", Discovery
-https://live.dinesh29.com.np/stream/jiotvplus/discovery/master.m3u8
 #EXTINF:-1 tvg-id="discovery_science" tvg-name="Discovery Science" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" tvg-chno="discovery_science" group-title="", Discovery Science
-https://live.dinesh29.com.np/stream/jiotvplus/discoveryscience/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=discovery_science&e=.m3u8
 #EXTINF:-1 tvg-id="discovery_turbo" tvg-name="Discovery Turbo" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" tvg-chno="discovery_turbo" group-title="", Discovery Turbo
-https://live.dinesh29.com.np/stream/jiotvplus/discoveryturbo/master.m3u8
+https://allottplay.com/tv/toffee/live.php?id=discovery_turbo&e=.m3u8
 #EXTINF:-1 tvg-id="discovary_investigation_hd" tvg-name="Investigation Discovery HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" tvg-chno="discovary_investigation_hd" group-title="", Investigation Discovery HD
 https://allottplay.com/tv/toffee/live.php?id=discovary_investigation_hd&e=.m3u8
 #EXTINF:-1 tvg-id="and_tv_hd" tvg-name="&TV HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" tvg-chno="and_tv_hd" group-title="", &TV HD
