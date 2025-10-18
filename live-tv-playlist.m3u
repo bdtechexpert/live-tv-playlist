@@ -149,17 +149,17 @@ https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Willow HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="Willow HD",Willow
-https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Willow HD 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="Willow HD",Willow HD 2
 https://d14.epicquesthero.com:1686/hls/willowextra.m3u8?md5=fz0SoToOO-1B1oi_ABwvxA&expires=1758817562
 
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="star_jalsha" group-title="", Star Jalsha
-https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
+https://tvsen7.aynaott.com/sjhdbd/index.m3u8
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalshahd.png" tvg-chno="star_jalsha" group-title="", Star Jalsha HD
-https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+https://tvsen7.aynaott.com/sjhdbd/index.m3u8
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Jalsha Movies" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovies.png" tvg-chno="star_jalsha" group-title="", Jalsha Movies
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
