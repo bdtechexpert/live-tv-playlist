@@ -158,19 +158,19 @@ https://d14.epicquesthero.com:1686/hls/willowextra.m3u8?md5=fz0SoToOO-1B1oi_ABwv
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="star_jalsha" group-title="", Star Jalsha
 https://tvsen7.aynaott.com/sjhdbd/index.m3u8
 
-#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalshahd.png" tvg-chno="star_jalsha" group-title="", Star Jalsha HD
+#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="star_jalsha" group-title="", Star Jalsha HD
 https://tvsen7.aynaott.com/sjhdbd/index.m3u8
 
-#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Jalsha Movies" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovies.png" tvg-chno="star_jalsha" group-title="", Jalsha Movies
+#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Jalsha Movies" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" tvg-chno="star_jalsha" group-title="", Jalsha Movies
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Jalsha Movies HD" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovieshd.png" tvg-chno="star_jalsha" group-title="", Jalsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
-#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Plus" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplus.png" tvg-chno="star_jalsha" group-title="", Star Plus
+#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Plus" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" tvg-chno="star_jalsha" group-title="", Star Plus
 https://tvsen7.aynaott.com/sphdbd/index.m3u8
 
-#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Plus HD" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png" tvg-chno="star_jalsha" group-title="", Star Plus HD
+#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Plus HD" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" tvg-chno="star_jalsha" group-title="", Star Plus HD
 https://tvsen7.aynaott.com/sphdbd/index.m3u8
 
 
@@ -187,10 +187,10 @@ https://live.dinesh29.com.np/stream/jiotv/colorssd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotv/colorshd/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/330px-Colors_Bangla.png" group-title="",Colors Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="",Colors Bangla
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/330px-Colors_Bangla.png" group-title="",Colors Bangla HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="",Colors Bangla HD
 https://live.dinesh29.com.np/stream/jiotv/colorsbengalihd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/06/Colors_Bangla_Cinema_logo_%282023-2024%29.png" group-title="",Colors Bangla Cinema
