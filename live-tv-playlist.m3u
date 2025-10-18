@@ -196,6 +196,9 @@ https://live.dinesh29.com.np/stream/jiotv/colorsbengalihd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/06/Colors_Bangla_Cinema_logo_%282023-2024%29.png" group-title="",Colors Bangla Cinema
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 
+#EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla HD
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="",Sun Bangla
 https://live.dinesh29.com.np/stream/jiotv/sunbangla/master.m3u8
 
