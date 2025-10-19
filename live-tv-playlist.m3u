@@ -137,7 +137,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="" tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Star Sports",Star Sports 1
 https://starsportshindiii.pages.dev/720p.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 2" tvg-name="" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/starsports2hindihd.png" group-title="Star Sports",Star Sports 2
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFDmfGWRRhNvctt0StKUFKyPkGj7zR_EEDg&s" group-title="Star Sports",Star Sports 2
 https://live.dinesh29.com.np/stream/jiotv/starsports2hindihd/master.m3u8
 
 
@@ -177,7 +177,7 @@ https://tvsen7.aynaott.com/sphdbd/index.m3u8
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Bharat" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharat.png" tvg-chno="star_jalsha" group-title="", Star Bharat
 https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
 
-#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Bharat HD" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharathd.png" tvg-chno="star_jalsha" group-title="", Star Bharat HD
+#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Bharat HD" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png" tvg-chno="star_jalsha" group-title="", Star Bharat HD
 https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="",Colors
