@@ -141,14 +141,14 @@ https://live.dinesh29.com.np/stream/jiotv/starsports2hindihd/master.m3u8
 
 
 #EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="A Sports HD",A Sports HD
-https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1764351370&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=8761772d2c91071e6aa98c4c1fe25bb4
 
 #EXTINF:-1 tvg-id="PTV Sports" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PTV Sports",PTV Sports
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
+https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1764351372&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=82bd8288bb4331eef727339526b7a9b3
 
 
 #EXTINF:-1 tvg-id="Willow HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="Willow HD",Willow
-https://tvsen5.aynaott.com/willowhd/index.m3u8
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1764351371&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=eed4525115a3826836672358f2bd2e64
 
 #EXTINF:-1 tvg-id="Willow HD 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="Willow HD",Willow HD 2
 https://d14.epicquesthero.com:1686/hls/willowextra.m3u8?md5=fz0SoToOO-1B1oi_ABwvxA&expires=1758817562
