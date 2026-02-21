@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery_sd" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" tvg-chno="discovery_sd" group-title="", Discovery
 https://ottbanglaplatform.com/tv/toffee/live.php?id=discovery_sd&e=.m3u8
@@ -125,7 +127,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3
 
 
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
-https://tvsen7.aynascope.net/tsportshd/index.m3u8
+https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Star Sports",Star Sports select  1
 https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1764351396&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=3b312d65222995b1130e090b2e90e4e6
