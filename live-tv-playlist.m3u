@@ -130,17 +130,16 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3
 https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Star Sports",Star Sports select  1
-https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1764351396&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=3b312d65222995b1130e090b2e90e4e6
+https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportsselecthd2.png" group-title="Star Sports",Star Sports select  2
-https://tvsen7.aynascope.net/ssps2hd/index.m3u8?e=1764351397&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=a61d99d19753e8dd974b3ebe99198506
+https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="" tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Star Sports",Star Sports 1
-https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1764351397&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=d5a651cdf52b29c434cece30d0701a29
+https://mflixott.com/tv/plusbox/live/StarSports1HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFDmfGWRRhNvctt0StKUFKyPkGj7zR_EEDg&s" group-title="Star Sports",Star Sports 2
-https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1764351398&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6806e62fbabd2dc1e3f08b62832f0ac3
-
+https://mflixott.com/tv/plusbox/live/StarSports2HD/index.m3u8
 
 #EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="A Sports HD",A Sports HD
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
@@ -157,10 +156,10 @@ https://d14.epicquesthero.com:1686/hls/willowextra.m3u8?md5=fz0SoToOO-1B1oi_ABwv
 
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="star_jalsha" group-title="", Star Jalsha
-https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1764351577&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6b2725efdf6431f2a6727c756fa47c97
+https://mflixott.com/tv/plusbox/live/StarJalshaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="star_jalsha" group-title="", Star Jalsha HD
-https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1764351577&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6b2725efdf6431f2a6727c756fa47c97
+https://mflixott.com/tv/plusbox/live/StarJalshaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Jalsha Movies" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" tvg-chno="star_jalsha" group-title="", Jalsha Movies
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
@@ -198,7 +197,7 @@ https://live.dinesh29.com.np/stream/jiotv/colorsbengalihd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla HD
-https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
+https://mflixott.com/tv/plusbox/live/ZeeBanglaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="",Sun Bangla
 https://live.dinesh29.com.np/stream/jiotv/sunbangla/master.m3u8
