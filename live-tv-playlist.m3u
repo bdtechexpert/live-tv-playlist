@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
-https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+#EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla
+https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_bangla&e=.m3u8
 
 #EXTINF:-1 tvg-id="discovery_sd" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" tvg-chno="discovery_sd" group-title="", Discovery
 https://ottbanglaplatform.com/tv/toffee/live.php?id=discovery_sd&e=.m3u8
@@ -52,8 +52,7 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
 https://ottbanglaplatform.com/tv/toffee/live.php?id=b4u_movies&e=.m3u8
 #EXTINF:-1 tvg-id="b4u_music" tvg-name="B4U Music VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" tvg-chno="b4u_music" group-title="", B4U Music
 https://ottbanglaplatform.com/tv/toffee/live.php?id=b4u_music&e=.m3u8
-#EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla
-https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_bangla&e=.m3u8
+
 #EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-name="Zee Bangla Cinema VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" tvg-chno="zee_bangla_cinema" group-title="", Zee Bangla Cinema
 https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_bangla_cinema&e=.m3u8
 #EXTINF:-1 tvg-id="zee_cinema_hd" tvg-name="Zee Cinema HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" tvg-chno="zee_cinema_hd" group-title="", Zee Cinema HD
@@ -125,6 +124,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg" tvg-chno="" group-title="", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
 https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
