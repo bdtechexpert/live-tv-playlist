@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="discovery_sd" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" tvg-chno="discovery_sd" group-title="", Discovery
 https://ottbanglaplatform.com/tv/toffee/live.php?id=discovery_sd&e=.m3u8
 
+#EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
+https://cdn1.ctgiptv.com/t-sports/index.m3u8
+
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla
 https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_bangla&e=.m3u8
 
@@ -127,10 +130,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg" tvg-chno="" group-title="", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
-https://cdn1.ctgiptv.com/t-sports/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Star Sports",Star Sports select  1
 https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
