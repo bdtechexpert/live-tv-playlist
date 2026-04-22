@@ -132,16 +132,16 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Star Sports",Star Sports select  1
-https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+https://cdn1.ctgiptv.com/star-select-1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportsselecthd2.png" group-title="Star Sports",Star Sports select  2
-https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
+https://cdn1.ctgiptv.com/star-select-2/tracks-a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-name="" tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Star Sports",Star Sports 1
-https://mflixott.com/tv/plusbox/live/StarSports1HD/index.m3u8
+https://cdn1.ctgiptv.com/star-sports-1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFDmfGWRRhNvctt0StKUFKyPkGj7zR_EEDg&s" group-title="Star Sports",Star Sports 2
-https://mflixott.com/tv/plusbox/live/StarSports2HD/index.m3u8
+https://cdn1.ctgiptv.com/star-sports-2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="A Sports HD",A Sports HD
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
