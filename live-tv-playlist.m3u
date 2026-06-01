@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="discovery_sd" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" tvg-chno="discovery_sd" group-title="", Discovery
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_sd&e=.m3u8
-
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
@@ -14,6 +11,9 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bangla&e=.m3u8
 
 #EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aath VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" tvg-chno="sonyaath" group-title="", Sony Aath
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
+
+#EXTINF:-1 tvg-id="discovery_sd" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" tvg-chno="discovery_sd" group-title="", Discovery
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_sd&e=.m3u8
 
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png" tvg-chno="cnn" group-title="", CNN
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=cnn&e=.m3u8
