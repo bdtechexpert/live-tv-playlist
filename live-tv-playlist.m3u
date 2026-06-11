@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="hhttps://i.postimg.cc/w6CgjWP9/FIFA-World-Cup-Logo-2022.png" tvg-chno="fifa+" group-title="", FIFA World Cup live
+#EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", FIFA World Cup live
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
 
 
