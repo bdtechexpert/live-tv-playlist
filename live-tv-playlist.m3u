@@ -8,7 +8,7 @@ https://tvsen5.aynaott.com/PtvSports/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
-https://tvsen7.aynaott.com/tsports-hd/playlist.m3u8
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla
