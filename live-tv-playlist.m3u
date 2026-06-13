@@ -3,12 +3,8 @@
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 
-#EXTINF:-1 tvg-id="PTV Sports" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PTV Sports",PTV Sports
-https://tvsen5.aynaott.com/PtvSports/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
-https://fomis.phantemlis.top/premium270/tracks-v1a1/mono.m3u8?md5=uKzmsR5Bk-EJ7HUakjHTQg&expires=1781292153
+https://fomis.phantemlis.top/premium270/tracks-v1a1/mono.m3u8?md5=hunUTt_ZCZZkGgN4C6-4kg&expires=1781380781
 
 
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla
@@ -154,6 +150,8 @@ https://mxonlive.xyz/universal_restream/play/805/stream.m3u8
 #EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="A Sports HD",A Sports HD
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="PTV Sports" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PTV Sports",PTV Sports
+https://tvsen5.aynaott.com/PtvSports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willow HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="Willow HD",Willow
 https://tvsen5.aynaott.com/willowhd/index.m3u8
