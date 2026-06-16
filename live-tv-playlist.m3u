@@ -5,6 +5,9 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
 https://mflixott.com/tv/dd/live.php?id=270&cid=270
 
+#EXTINF:-1 tvg-id="fifa+" tvg-name="zee_bangla_cinema+" tvg-country="IN" tvg-logo="https://i.postimg.cc/HnkzXwDf/channels4-profile.jpg" tvg-chno="fifa+" group-title="", Zee Bangla Sonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/playlist.m3u8
+
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", FIFA World Cup live 1
 https://mflixott.com/tv/dd/live2.php?id=54
 
