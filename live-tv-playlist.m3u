@@ -25,9 +25,6 @@ https://mflixott.com/tv/dd/live3.php?id=918
 
 
 
-#EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports 2
-http://198.195.239.50:8095/tsports/index.m3u8
-
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bangla&e=.m3u8
 
