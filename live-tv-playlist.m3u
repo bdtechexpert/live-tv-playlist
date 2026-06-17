@@ -6,13 +6,13 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 https://mflixott.com/tv/dd/live.php?id=270
 
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", FIFA World Cup live 1
-https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
+https://mflixott.com/tv/dd/live.php?id=966
 
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", FIFA World Cup live 2
-https://mflixott.com/tv/dd/live4.php?id=131
+https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", FIFA World Cup live 3
-https://mflixott.com/tv/dd/live2.php?id=966
+https://mflixott.com/tv/dd/live4.php?id=131
 
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", FIFA World Cup live 4
 https://mflixott.com/tv/dd/live2.php?id=54
