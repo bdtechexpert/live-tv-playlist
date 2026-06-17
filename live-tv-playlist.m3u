@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="News 24/7" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/NF9gp1p5/samaya-ta-bha-ra-la-ga-svg.png" group-title="News 24/7", Somoy TV for FIFA World Cup
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fifa+" tvg-name="zee_bangla_cinema+" tvg-country="IN" tvg-logo="https://i.postimg.cc/HnkzXwDf/channels4-profile.jpg" tvg-chno="fifa+" group-title="", Zee Bangla Sonar for FIFA World Cup
-https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
 https://fomis.phantemlis.top/premium270/tracks-v1a1/mono.m3u8?md5=LptpVUZqsHADOTUiI6Ti4Q&expires=1781661605
 
@@ -130,6 +127,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/nickhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sonicbangla.png" tvg-chno="" group-title="", Sonic Bangla
 https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
 
+#EXTINF:-1 tvg-id="fifa+" tvg-name="zee_bangla_cinema+" tvg-country="IN" tvg-logo="https://i.postimg.cc/HnkzXwDf/channels4-profile.jpg" tvg-chno="fifa+" group-title="", Zee Bangla Sonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/hungama.png" tvg-chno="" group-title="", Hungama
 https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
