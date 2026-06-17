@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="News 24/7" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/NF9gp1p5/samaya-ta-bha-ra-la-ga-svg.png" group-title="News 24/7", Somoy TV for FIFA World Cup live
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
 https://mflixott.com/tv/dd/live.php?id=270
+
+#EXTINF:-1 tvg-id="News 24/7" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/NF9gp1p5/samaya-ta-bha-ra-la-ga-svg.png" group-title="News 24/7", Somoy TV for FIFA World Cup live
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", FIFA World Cup live 1
 https://mflixott.com/tv/dd/live.php?id=966
