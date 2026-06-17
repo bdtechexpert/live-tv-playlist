@@ -4,17 +4,14 @@
 https://next.badinan.xyz/nexttv/FHD/chunklist_w1647684074.m3u8
 
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", FIFA World Cup live 2
-https://nur.torongoplus.workers.dev/?url=https://d24e5b9p9scf3j.cloudfront.net/newi/1/fronts.woff2?&.m3u8
+https://mflixott.com/tv/dd/live.php?id=270
 
 
-#EXTINF:-1 tvg-id="News 24/7" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/NF9gp1p5/samaya-ta-bha-ra-la-ga-svg.png" group-title="News 24/7", Somoy TV for FIFA World Cup live 1
+#EXTINF:-1 tvg-id="News 24/7" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/NF9gp1p5/samaya-ta-bha-ra-la-ga-svg.png" group-title="News 24/7", Somoy TV for FIFA World Cup live
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="IN" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
-https://fomis.phantemlis.top/premium270/tracks-v1a1/mono.m3u8?md5=LptpVUZqsHADOTUiI6Ti4Q&expires=1781661605
-
-
-
+https://mflixott.com/tv/dd/live.php?id=270
 
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", beIN SPORTS 1 France
 https://mflixott.com/tv/dd/live2.php?id=116
