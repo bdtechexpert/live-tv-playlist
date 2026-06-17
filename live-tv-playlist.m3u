@@ -6,7 +6,8 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 https://fomis.phantemlis.top/premium270/tracks-v1a1/mono.m3u8?md5=LptpVUZqsHADOTUiI6Ti4Q&expires=1781661605
 
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", FOX USA live
-https://mflixott.com/tv/dd/live2.php?id=54
+https://vomos.phantemlis.top/premium54/index.m3u8?md5v1=Zl0eZ6T0BlDyIKXGOuat4Q&md5v2=wFKOqgsg41pg0tLD82_k7A&expires=1781662516
+
 
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", beIN SPORTS 1 Max Arabia
 https://mflixott.com/tv/dd/live.php?id=966
