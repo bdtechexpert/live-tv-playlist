@@ -6,8 +6,7 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 https://sm-monirul.top/ultra_restream/bioscope/index.m3u8
 
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", FIFA World Cup live 3
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782158700~Starts=1782072300~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=JxMccoxuViModXUoz1A0IZhlRR7OG13A6EWzmURqUuPF4RkvRFqgGhGg4AWeWBA1Uyzah0ZgXzuE7GUjvOgNCg
-
+https://sm-monirul.top/tof/live/toffee5/index.m3u8
 
 #EXTINF:-1 tvg-id="News 24/7" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/NF9gp1p5/samaya-ta-bha-ra-la-ga-svg.png" group-title="News 24/7", Somoy TV for FIFA World Cup
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
