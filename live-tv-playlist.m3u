@@ -187,13 +187,13 @@ https://mxonlive.xyz/universal_restream/play/808/stream.m3u8
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="star_jalsha" group-title="", Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
-#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxoH9gSXCGvqzfiQqLOdVTIcMHhMzcFO59bw&s" tvg-chno="star_jalsha" group-title="", Star Jalsha HD
+#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="star_jalsha" group-title="", Star Jalsha HD
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Jalsha Movies" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" tvg-chno="star_jalsha" group-title="", Jalsha Movies
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 
-#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Jalsha Movies HD" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovieshd.png" tvg-chno="star_jalsha" group-title="", Jalsha Movies HD
+#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Jalsha Movies HD" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" tvg-chno="star_jalsha" group-title="", Jalsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Plus" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" tvg-chno="star_jalsha" group-title="", Star Plus
@@ -203,7 +203,7 @@ https://tvsen7.aynaott.com/sphdbd/index.m3u8
 https://tvsen7.aynaott.com/sphdbd/index.m3u8
 
 
-#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Bharat" tvg-country="IN" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharat.png" tvg-chno="star_jalsha" group-title="", Star Bharat
+#EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Bharat" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Star_Bharat_logo.png" tvg-chno="star_jalsha" group-title="", Star Bharat
 https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Bharat HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/a8c5acbf13de9aaff9a579b4380611a5.png" tvg-chno="star_jalsha" group-title="", Star Bharat HD
@@ -228,7 +228,7 @@ https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla HD
 https://mflixott.com/tv/plusbox/live/ZeeBanglaHD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="",Sun Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XrGnKHG2/images.jpg" group-title="",Sun Bangla
 https://live.dinesh29.com.np/stream/jiotv/sunbangla/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pLs2ZYhz/20250529-111853.png" group-title="",Ruposhi Bangla
