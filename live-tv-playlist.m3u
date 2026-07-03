@@ -26,6 +26,9 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=CowXUjfcmE0Jc30mRk&e=.m3u8
 #EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aath VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" tvg-chno="sonyaath" group-title="", Sony Aath
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=Zffvji8FFa41ui0OG9&e=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" tvg-chno="" group-title="", Discovery HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=PQVDEP2tGgm9iEtfz8&e=.m3u8
+
 #EXTINF:-1 tvg-id="discovery_sd" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" tvg-chno="discovery_sd" group-title="", Discovery
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=UxwQw614OTg00S84mm&e=.m3u8
 
@@ -113,8 +116,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=adHlSOSFXVC4tZUMRUL&e=.m3u8
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=GbY4Y5MktRkUIU2YkT&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-country="IN" tvg-logo="https://logowik.com/content/uploads/images/4104-zing-tv-new.webp" tvg-chno="" group-title="", Zing
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=MsDgPfAGTAsOAiVnSD&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" tvg-chno="" group-title="", Discovery HD
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=PQVDEP2tGgm9iEtfz8&e=.m3u8
+
 
 
 
