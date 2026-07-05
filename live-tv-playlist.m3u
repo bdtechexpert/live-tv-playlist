@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", BIOSCOPE+ for FIFA World Cup
+https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_2.m3u8
+
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="BD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T Sports for FIFA World Cup
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
