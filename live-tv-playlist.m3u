@@ -17,6 +17,36 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_5_hd&e=.m3u8
 #EXTINF:-1 tvg-id="euro_sports_hd" tvg-name="Euro Sport HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" tvg-chno="euro_sports_hd" group-title="", Euro Sport HD
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=euro_sports_hd&e=.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Star Sports", Star Sports select  1
+https://cdn1.ctgiptv.com/star-select-1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://multireach.in/wp-content/uploads/2020/11/Star-Sports-Select-HD-2-1.png" group-title="Star Sports", Star Sports select  2
+https://cdn1.ctgiptv.com/star-select-2/tracks-a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-name="" tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Star Sports", Star Sports 1
+https://mxonlive.xyz/universal_restream/play/810/stream.m3u8
+
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-name="" tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" group-title="Star Sports", Star Sports 2
+https://mxonlive.xyz/universal_restream/play/805/stream.m3u8
+
+#EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="A Sports HD", A Sports HD
+https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="PTV Sports" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PTV Sports", PTV Sports
+https://tvsen5.aynaott.com/PtvSports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Willow HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="Willow HD", Willow HD
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-id="Willow HD 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="Willow HD", Willow HD 2
+https://mxonlive.xyz/universal_restream/play/808/stream.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bangla&e=.m3u8
 
@@ -142,31 +172,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg" tvg-chno="" group-title="", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Star Sports",Star Sports select  1
-https://cdn1.ctgiptv.com/star-select-1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://multireach.in/wp-content/uploads/2020/11/Star-Sports-Select-HD-2-1.png" group-title="Star Sports",Star Sports select  2
-https://cdn1.ctgiptv.com/star-select-2/tracks-a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-name="" tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Star Sports",Star Sports 1
-https://mxonlive.xyz/universal_restream/play/810/stream.m3u8
-
-#EXTINF:-1 tvg-id="Star Sports 2" tvg-name="" tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" group-title="Star Sports",Star Sports 2
-https://mxonlive.xyz/universal_restream/play/805/stream.m3u8
-
-#EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="A Sports HD",A Sports HD
-https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="PTV Sports" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PTV Sports",PTV Sports
-https://tvsen5.aynaott.com/PtvSports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Willow HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="Willow HD",Willow
-https://tvsen5.aynaott.com/willowhd/index.m3u8
-
-#EXTINF:-1 tvg-id="Willow HD 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="Willow HD",Willow HD 2
-https://mxonlive.xyz/universal_restream/play/808/stream.m3u8
-
 
 #EXTINF:-1 tvg-id="star_jalsha" tvg-name="Star Jalsha" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="star_jalsha" group-title="", Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
