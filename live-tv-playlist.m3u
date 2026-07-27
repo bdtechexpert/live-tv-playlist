@@ -28,6 +28,9 @@ https://mflixott.com/tv/dd/live.php/346.m3u8
 #EXTINF:-1 tvg-id="Willow HD 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="Willow HD", Willow HD 2
 https://mflixott.com/tv/dd/live.php/598.m3u8
 
+#EXTINF:-1 tvg-id="PTV Sports" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PTV Sports", PTV Sports
+https://mflixott.com/tv/dd/live3.php/450.m3u8
+
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Star Sports", Star Sports select  1
 https://cdn1.ctgiptv.com/star-select-1/tracks-v1a1/mono.ts.m3u8
 
@@ -43,8 +46,6 @@ https://mxonlive.xyz/universal_restream/play/805/stream.m3u8
 #EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="A Sports HD", A Sports HD
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="PTV Sports" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PTV Sports", PTV Sports
-https://tvsen5.aynaott.com/PtvSports/playlist.m3u8
 
 
 
