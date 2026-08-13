@@ -6,7 +6,7 @@ https://tvsen7.aynascope.net/Sports1/index.m3u8
 https://s1.itcnbd.live/T-Sports-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="BD" tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" tvg-chno="tspost_live" group-title="", T sports - server 3
-https://digitalotthub.com/tv/dd/live2.php/270.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-id="ten_cricket" tvg-name="SONY TEN Cricket" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" tvg-chno="ten_cricket" group-title="", TEN Cricket
 https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=ten_cricket&e=.m3u8
@@ -27,8 +27,8 @@ https://digitalotthub.com/tv/dd/live.php/346.m3u8
 #EXTINF:-1 tvg-id="Willow HD 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="Willow HD", Willow HD 2
 https://digitalotthub.com/tv/dd/live.php/598.m3u8
 
-#EXTINF:-1 tvg-id="PTV Sports" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PTV Sports", PTV Sports
-https://digitalotthub.com/tv/dd/live3.php/450.m3u8
+#EXTINF:-1 tvg-id="PTV Sports" tvg-name="ptv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PTV Sports", PTV Sports
+https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 
 #EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="A Sports HD", A Sports HD
 https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4xMzk6ODA5MC9obHMvQVNwb3J0c0hELm0zdTg.m3u8
